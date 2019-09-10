@@ -1,3 +1,5 @@
+
+![todo](https://user-images.githubusercontent.com/37521732/64657747-85b49580-d3fa-11e9-9545-26b0cd1c070c.gif)
 # Project 0
 
 The goal of this project is to practice JavaScript and its paradigms by creating
