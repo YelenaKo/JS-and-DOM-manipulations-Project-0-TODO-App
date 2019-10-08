@@ -1,5 +1,7 @@
 # Project 0
 
+[https://yelenako.github.io/JS-and-DOM-manipulations-Project-0-TODO-App](https://yelenako.github.io/JS-and-DOM-manipulations-Project-0-TODO-App/)
+
 ![todo](https://user-images.githubusercontent.com/37521732/64657747-85b49580-d3fa-11e9-9545-26b0cd1c070c.gif)
 
 
