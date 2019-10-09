@@ -1,6 +1,6 @@
 # Project 0
 
-#### *This app was created for "HarvardX: CS50M - CS50's Mobile App Development with React Native" course
+##### *This app was created for "HarvardX: CS50M - CS50's Mobile App Development with React Native" course
 
 The goal of this project is to practice JavaScript and its paradigms by creating
 a TODO app. This app should be able to add TODOs and track the number of total
